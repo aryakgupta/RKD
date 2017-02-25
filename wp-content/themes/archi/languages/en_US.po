@@ -1,0 +1,3332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Archi v3.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-12-06 11:05+0700\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ archi
+#: archive-portfolio.php:11
+msgid "PORTFOLIO"
+msgstr ""
+
+# @ archi
+#: archive-service.php:12
+msgid "SERVICES"
+msgstr ""
+
+# @ archi
+#: archive-service.php:49 content-audio.php:16 content-gallery.php:27
+#: content-image.php:22 content-video.php:16 content.php:20 shortcodes.php:1370
+msgid "Read More"
+msgstr ""
+
+# @ archi
+#: archive.php:14
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ archi
+#: archive.php:17
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+# @ archi
+#: archive.php:17
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ archi
+#: archive.php:20
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+# @ archi
+#: archive.php:20
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ archi
+#: archive.php:23
+msgid "Archives"
+msgstr ""
+
+# @ archi
+#: author.php:11
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+# @ archi
+#: category.php:12 taxonomy-categories.php:11
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+# @ archi
+#: comments.php:20
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ archi
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ archi
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+# @ archi
+#: comments.php:38
+msgid "Leave a reply"
+msgstr ""
+
+# @ archi
+#: comments.php:40
+msgid "Name *"
+msgstr ""
+
+# @ archi
+#: comments.php:41
+msgid "Email *"
+msgstr ""
+
+# @ archi
+#: comments.php:43
+msgid "Comment *"
+msgstr ""
+
+# @ archi
+#: comments.php:44
+msgid "Send Message"
+msgstr ""
+
+# @ default
+#: framework/BFI_Thumb.php:145
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+# @ archi
+#: framework/BFI_Thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+# @ archi
+#: framework/BFI_Thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+# @ archi
+#: framework/BFI_Thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+# @ archi
+#: framework/BFI_Thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+# @ archi
+#: framework/BFI_Thumb.php:417
+msgid "Image negate failed."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+# @ tgmpa
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ tgmpa
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:920
+#: framework/class-tgm-plugin-activation.php:2626
+#: framework/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:394
+#: framework/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: dashboard link.
+#: framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1027
+#: framework/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1214
+#: framework/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+# @ tgmpa
+#. translators: %s: version number
+#: framework/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: install status, 2: update status
+#: framework/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+# @ tgmpa
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+# @ tgmpa
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+# @ tgmpa
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ tgmpa
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/class-tgm-plugin-activation.php:3045
+#: framework/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name, 2: error message.
+#: framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3602
+#: framework/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3602
+#: framework/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+# @ tgmpa
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:20
+msgid "Format Details"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:34 functions.php:706
+msgid "Image"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:48
+msgid "Gallery"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:60
+msgid "Quote"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:76
+msgid "Author"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:88
+msgid "Audio"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:106 framework/meta-boxes.php:135
+msgid "Video"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:128
+msgid "Portfolio Format Details"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:144 framework/meta-boxes.php:168
+msgid "Background Image Page Sub-header"
+msgstr ""
+
+# @ archi
+#: framework/meta-boxes.php:156
+msgid "Page Details"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:87
+msgid "Theme Information 1"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:88 framework/sample-config.php:93
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:92
+msgid "Theme Information 2"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:99
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:117
+msgid "Miscellaneous Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:122
+msgid "Animation Off?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:123 framework/sample-config.php:137
+#: framework/sample-config.php:144 framework/sample-config.php:158
+#: framework/sample-config.php:227 framework/sample-config.php:234
+#: framework/sample-config.php:311 framework/sample-config.php:500
+#: framework/sample-config.php:613
+msgid "Look, it's on!"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:129
+msgid "Footer Widget Landing Page On?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:130 framework/sample-config.php:318
+#: framework/sample-config.php:620
+msgid "Look, it's off!"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:136
+msgid "Sub-Pages Off?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:143
+msgid "Breadcrumb Off?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:152
+msgid "Preload Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:157
+msgid "Preload Off?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:164
+msgid "Preload Text Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:165
+msgid "Pick the preload text color (default: #111111)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:172
+msgid "Preload Background Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:173
+msgid "Pick the preload background color (default: #000000)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:182
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:188 framework/sample-config.php:192
+msgid "Favicon"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:191
+msgid "Favicon."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:199 framework/sample-config.php:203
+#: framework/sample-config.php:913
+msgid "Logo"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:202
+msgid "logo."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:210
+msgid "Logo 2 on Side Navigation"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:213
+msgid "logo 2 on Side Navigation."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:214
+msgid "Logo 2"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:221
+msgid "Top Header Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:226
+msgid "Topbar One-Page Off?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:233
+msgid "Topbar All Page Off?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:240
+msgid "Topbar Text Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:241
+msgid "Pick the topbar text color (default: #ffffff)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:248
+msgid "Topbar Border Bottom Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:249
+msgid "Pick the topbar border bottom color, default: rgba(255, 255, 255, 0.2)"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:258
+msgid "Topbar info text."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:259
+msgid "Add topbar info html text."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:266
+msgid "Header Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:271
+msgid "Header Position"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:272
+msgid "Header position use for Header layout with Header Normal."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:273
+msgid "Header position : select header on top page or header on bottom page."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:283
+msgid "Header Layouts"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:284
+msgid "Header layout"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:285
+msgid "Header layout : select header on top page or header on side left."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:296
+msgid "Header Style"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:297
+msgid "Use with Header Layouts : Header Normal"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:298
+msgid "Select header style : Dark or Light or Overlay or Transparent."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:310
+msgid "Desktop Header Sticky Off?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:317
+msgid "Mobile Header Sticky On?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:324
+msgid "Header Static Background Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:325
+msgid "Pick the header static background color for the theme (default: rgba(0,0,0,0.5))."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:332
+msgid "Header Scroll Background Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:333
+msgid "Pick the header scroll background color for the theme (default: #18191b)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:340
+msgid "Header Scroll Border Bottom Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:341
+msgid "Pick the header scroll Border Bottom color for the theme (default: #333333)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:348
+msgid "Header Text Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:349
+msgid "Pick the header text color for the theme (default: #fff)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:356
+msgid "Header Border Menu Item Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:357
+msgid "Use for Side Navigation Left (default: #1b1b1b)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:364
+msgid "Menu style"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:365
+msgid "Icon Menu Style"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:366
+msgid "Menu Style"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:382
+msgid "Typography"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:388
+msgid "Heading 1"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:389
+msgid "Specify the heading 1 font properties."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:403
+msgid "Heading 2"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:404
+msgid "Specify the heading 2 font properties."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:418
+msgid "Heading 3"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:419
+msgid "Specify the heading 3 font properties."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:433
+msgid "Heading 4"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:434
+msgid "Specify the heading 4 font properties."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:448
+msgid "Heading 5"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:449
+msgid "Specify the heading 5 font properties."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:463
+msgid "Heading 6"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:464
+msgid "Specify the heading 6 font properties."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:479
+msgid "Menu item"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:480
+msgid "Specify the Menu item font properties."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:494
+msgid "Portfolio Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:499
+msgid "Portfolio Ajax Load content on page?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:501
+msgid "Use for Portfolio in home page, Load Ajax Content or Link out single Portfolio."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:507
+msgid "Previous/next post navigation"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:508
+msgid "Select navigation style single portfolio."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:509
+msgid "Default navigation on top single page."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:519
+msgid "Title in Portfolio Archive Page "
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:526
+msgid "Show Posts"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:533
+msgid "Background Main Portfolio Top Page"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:534
+msgid "Background Portfolio Archive and Portfolio Category page."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:540
+msgid "Portfolio Columns style"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:541
+msgid "Select Portfolio Columns style."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:542
+msgid "Default show portfolio archive page is grid 4 columns."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:555
+msgid "Link to list portfolio page"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:564
+msgid "Blog Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:569
+msgid "Blog Layout"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:570
+msgid "Click on image layout to chooise"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:571
+msgid "Select layout you want use for all your blog page."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:592 framework/sample-config.php:594
+msgid "Blog custom excerpt lenght"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:593
+msgid "Input Blog custom excerpt lenght"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:600 framework/sample-config.php:602
+msgid "The Blog Single Title"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:601
+msgid "Input blog single"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:612
+msgid "Slide Auto Play Off?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:619
+msgid "Slide Transition Fade On?"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:626
+msgid "Slide Speed"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:627
+msgid "This slide displays the value as a speed."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:628
+msgid "Slider description. Min: 100, max: 3000, step: 200, default value: 200"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:638
+msgid "Slide Pagination Speed"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:639
+msgid "This slide displays the value as a pagination speed."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:640
+msgid "Slider description. Min: 100, max: 3000, step: 500, default value: 800"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:650
+msgid "Slide Rewind Speed"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:651
+msgid "This slide displays the value as a rewind speed."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:652
+msgid "Slider description. Min: 100, max: 3000, step: 500, default value: 1000"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:664
+msgid "Services Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:669
+msgid "Single service option layout"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:670
+msgid "Select option: page fullwidth or page left sidebar."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:671
+msgid "Select option: page fullwidth or page left sidebar, default: page left sidebar."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:694
+msgid "Shop Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:699
+msgid "Background Main Shop Top Page"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:700
+msgid "Background Shop"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:706
+msgid "Background Single Product Top Page"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:707
+msgid "Background Single Product"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:715
+msgid "404 Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:720 framework/sample-config.php:722
+msgid "404 Title"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:721
+msgid "Input 404 Title"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:728 framework/sample-config.php:730
+msgid "404 Content"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:729
+msgid "Enter 404 Content"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:736 framework/sample-config.php:738
+msgid "Button Back Home"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:737
+msgid "Text Button Go To Home."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:745
+msgid "Social Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:750
+msgid "Facebook Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:757
+msgid "Google+ Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:764
+msgid "RSS Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:771
+msgid "Twitter Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:778
+msgid "Github Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:785
+msgid "Youtube Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:792
+msgid "Linkedin Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:799
+msgid "Dribbble Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:806
+msgid "Behance Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:813
+msgid "Instagram Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:820
+msgid "Skype Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:827
+msgid "pinterest Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:834
+msgid "vimeo Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:841
+msgid "tumblr Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:848
+msgid "soundcloud Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:855
+msgid "lastfm Url"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:862
+msgid "Add your social extend"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:863
+msgid "Add your social html code here, if your social network not have on list social above."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:870
+msgid "Footer Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:875
+msgid "Footer Text Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:876
+msgid "Pick the Footer Text color for the theme (default: #cccccc)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:883
+msgid "Footer Background Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:884
+msgid "Pick the Footer Background color for the theme (default: #111111)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:891
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:892
+msgid "Pick the Footer Bottom Background color for the theme (default: #0b0b0b)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:899
+msgid "Footer Text"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:900
+msgid "Copyright Text"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:907
+msgid "Coming Soon Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:916 vc_shortcode.php:305 vc_shortcode.php:384
+#: vc_shortcode.php:429
+msgid "Upload your logo."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:917
+msgid "Recommended size: Height: auto and Width: 120px"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:923
+msgid "Date Option"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:924
+msgid "No validation can be done on this field type"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:925
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:932 framework/sample-config.php:933
+msgid "Background Image"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:934
+msgid "Use For Coming Soon Page"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:940 framework/sample-config.php:941
+msgid "Link Video MP4"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:942 framework/sample-config.php:950
+msgid "Use For Coming Soon Video"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:948 framework/sample-config.php:949
+msgid "Link Video Webm"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:956 framework/sample-config.php:957
+#: framework/sample-config.php:958 framework/sample-config.php:978
+#: framework/sample-config.php:979 framework/sample-config.php:980
+msgid "Coming Soon Title"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:964 framework/sample-config.php:965
+#: framework/sample-config.php:966 framework/sample-config.php:986
+#: framework/sample-config.php:987 framework/sample-config.php:988
+msgid "Coming Soon Subtitle"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:973
+msgid "Hide Content Coming Soon Settings"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:994 framework/sample-config.php:995
+msgid "Contact Form Shortcode"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:996
+msgid "Ex: [contact-form-7 id=\"283\" title=\"Contact form 1\"]"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1003
+msgid "Styling Options"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1008
+msgid "Theme Version"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1009 framework/sample-config.php:1010
+msgid "Dark or White"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1021 framework/sample-config.php:1024
+#: framework/sample-config.php:1025
+msgid "Background Header All Pages"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1031
+msgid "Theme Main Color"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1032
+msgid "Pick the main color for the theme (default: #FAB207)."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1040
+msgid "Body Font"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1041
+msgid "Specify the body font properties."
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1054
+msgid "CSS Code"
+msgstr ""
+
+# @ archi
+#: framework/sample-config.php:1055
+msgid "Paste your CSS code here."
+msgstr ""
+
+# @ archi
+#: functions.php:67
+msgid "Primary Menu"
+msgstr ""
+
+# @ archi
+#: functions.php:68
+msgid "One Page Menu"
+msgstr ""
+
+# @ archi
+#: functions.php:69
+msgid "Landing Page Menu"
+msgstr ""
+
+# @ archi
+#: functions.php:87
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr ""
+
+# @ archi
+#: functions.php:93
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ archi
+#: functions.php:99
+msgctxt "Allura font: on or off"
+msgid "on"
+msgstr ""
+
+# @ archi
+#: functions.php:105
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+# @ archi
+#: functions.php:323
+msgid "Primary Sidebar"
+msgstr ""
+
+# @ archi
+#: functions.php:325 functions.php:334
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+# @ archi
+#: functions.php:332
+msgid "Shop Sidebar"
+msgstr ""
+
+# @ archi
+#: functions.php:341
+msgid "Footer One Widget Area"
+msgstr ""
+
+# @ archi
+#: functions.php:343 functions.php:353 functions.php:363 functions.php:373
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+# @ archi
+#: functions.php:351
+msgid "Footer Two Widget Area"
+msgstr ""
+
+# @ archi
+#: functions.php:361
+msgid "Footer Three Widget Area"
+msgstr ""
+
+# @ archi
+#: functions.php:371
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+# @ archi
+#: functions.php:383
+msgid "Home"
+msgstr ""
+
+# @ archi
+#: functions.php:595
+msgid "type to search&hellip;"
+msgstr ""
+
+# @ archi
+#: functions.php:611
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ archi
+#: functions.php:619
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ archi
+#: functions.php:663
+msgid "Fullwidth"
+msgstr ""
+
+# @ archi
+#: functions.php:666 vc_shortcode.php:1194 vc_shortcode.php:1270
+#: vc_shortcode.php:1337 vc_shortcode.php:1405 vc_shortcode.php:1482
+#: vc_shortcode.php:1558 vc_shortcode.php:1634 vc_shortcode.php:1710
+#: vc_shortcode.php:1786 vc_shortcode.php:1852 vc_shortcode.php:1876
+#: vc_shortcode.php:1955 vc_shortcode.php:2696
+msgid "No"
+msgstr ""
+
+# @ archi
+#: functions.php:667 functions.php:679 functions.php:689 functions.php:699
+#: vc_shortcode.php:1195 vc_shortcode.php:1271 vc_shortcode.php:1338
+#: vc_shortcode.php:1406 vc_shortcode.php:1483 vc_shortcode.php:1559
+#: vc_shortcode.php:1635 vc_shortcode.php:1711 vc_shortcode.php:1787
+#: vc_shortcode.php:1851 vc_shortcode.php:1877 vc_shortcode.php:1956
+#: vc_shortcode.php:2315 vc_shortcode.php:2385 vc_shortcode.php:2442
+#: vc_shortcode.php:2486 vc_shortcode.php:2611 vc_shortcode.php:2697
+msgid "Yes"
+msgstr ""
+
+# @ archi
+#: functions.php:669
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+# @ archi
+#: functions.php:676
+msgid "Full height?"
+msgstr ""
+
+# @ archi
+#: functions.php:678 functions.php:698
+msgid "If checked row will be set to full height."
+msgstr ""
+
+# @ archi
+#: functions.php:686
+msgid "Parallax row?"
+msgstr ""
+
+# @ archi
+#: functions.php:688
+msgid "If checked row will be set to parallax and you need add background parallax in Design Options Tab."
+msgstr ""
+
+# @ archi
+#: functions.php:696
+msgid "Put a pictures on the half Row?"
+msgstr ""
+
+# @ archi
+#: functions.php:709
+msgid "Select image from media library."
+msgstr ""
+
+# @ archi
+#: functions.php:720
+msgid "Columns image"
+msgstr ""
+
+# @ archi
+#: functions.php:723 functions.php:743
+msgid "Default"
+msgstr ""
+
+# @ archi
+#: functions.php:724
+msgid "Image on 4 Columns"
+msgstr ""
+
+# @ archi
+#: functions.php:725
+msgid "Image on 5 Columns"
+msgstr ""
+
+# @ archi
+#: functions.php:726
+msgid "Image on 6 Columns"
+msgstr ""
+
+# @ archi
+#: functions.php:727
+msgid "Image on 7 Columns"
+msgstr ""
+
+# @ archi
+#: functions.php:729
+msgid "Select columns position within row."
+msgstr ""
+
+# @ archi
+#: functions.php:740 vc_shortcode.php:798 vc_shortcode.php:1094
+msgid "Image position"
+msgstr ""
+
+# @ archi
+#: functions.php:744 vc_shortcode.php:801 vc_shortcode.php:1097
+msgid "Image on Left Row"
+msgstr ""
+
+# @ archi
+#: functions.php:745 vc_shortcode.php:802 vc_shortcode.php:1098
+msgid "Image on Right Row"
+msgstr ""
+
+# @ archi
+#: functions.php:747 vc_shortcode.php:804 vc_shortcode.php:1100
+msgid "Select Image position within row."
+msgstr ""
+
+# @ archi
+#: functions.php:758 functions.php:793
+msgid "CSS Animation"
+msgstr ""
+
+# @ archi
+#: functions.php:761 functions.php:796 vc_shortcode.php:224
+#: vc_shortcode.php:491 vc_shortcode.php:623
+msgid "None"
+msgstr ""
+
+# @ archi
+#: functions.php:762 functions.php:797
+msgid "Fade In Up"
+msgstr ""
+
+# @ archi
+#: functions.php:763 functions.php:798
+msgid "Fade In Down"
+msgstr ""
+
+# @ archi
+#: functions.php:764 functions.php:799
+msgid "Fade In"
+msgstr ""
+
+# @ archi
+#: functions.php:765 functions.php:800
+msgid "Fade In Left"
+msgstr ""
+
+# @ archi
+#: functions.php:766 functions.php:801
+msgid "Fade In Right"
+msgstr ""
+
+# @ archi
+#: functions.php:768 functions.php:803
+msgid "Select Animate , Default: None"
+msgstr ""
+
+# @ archi
+#: functions.php:773 functions.php:808
+msgid "Animation time delay number"
+msgstr ""
+
+# @ archi
+#: functions.php:776 functions.php:785 functions.php:811 functions.php:820
+msgid "Example : 0.2, 0.6, 1, etc"
+msgstr ""
+
+# @ archi
+#: functions.php:782 functions.php:817
+msgid "Animation time duration number"
+msgstr ""
+
+# @ archi
+#: page-templates/template-blog.php:62 search.php:46
+msgid "Nothing Found Here!"
+msgstr ""
+
+# @ archi
+#: page-templates/template-canvas.php:15
+#: page-templates/template-fullwidth.php:43
+#: page-templates/template-landing.php:19
+#: page-templates/template-onepage.php:24 page.php:69
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+# @ archi
+#: page-templates/template-coming-soon-page.php:59
+#: page-templates/template-coming-soon-page.php:220
+#: page-templates/template-coming-soon-video.php:60
+#: page-templates/template-coming-soon-video.php:227
+msgid "days"
+msgstr ""
+
+# @ archi
+#: page-templates/template-coming-soon-page.php:64
+#: page-templates/template-coming-soon-page.php:221
+#: page-templates/template-coming-soon-video.php:65
+#: page-templates/template-coming-soon-video.php:228
+msgid "hours"
+msgstr ""
+
+# @ archi
+#: page-templates/template-coming-soon-page.php:69
+#: page-templates/template-coming-soon-page.php:222
+#: page-templates/template-coming-soon-video.php:70
+#: page-templates/template-coming-soon-video.php:229
+msgid "minutes"
+msgstr ""
+
+# @ archi
+#: page-templates/template-coming-soon-page.php:74
+#: page-templates/template-coming-soon-page.php:223
+#: page-templates/template-coming-soon-video.php:75
+#: page-templates/template-coming-soon-video.php:230
+msgid "seconds"
+msgstr ""
+
+# @ archi
+#: page.php:51
+msgid "Pages:"
+msgstr ""
+
+# @ archi
+#: page.php:55
+msgid "Page"
+msgstr ""
+
+# @ archi
+#: search.php:12
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+# @ archi
+#: single-portfolio.php:42
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr ""
+
+# @ archi
+#: single-portfolio.php:54
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+# @ archi
+#: single-portfolio.php:71 single.php:134
+msgid "Share:"
+msgstr ""
+
+# @ archi
+#: single-portfolio.php:85
+msgid "<i class=\"fa fa-chevron-left\"></i> Prev"
+msgstr ""
+
+# @ archi
+#: single-portfolio.php:88
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+# @ archi
+#: single.php:117
+msgid "By : "
+msgstr ""
+
+# @ archi
+#: single.php:126 single.php:170
+msgid "0 comment"
+msgstr ""
+
+# @ archi
+#: single.php:126 single.php:170
+msgid "1 comment"
+msgstr ""
+
+# @ archi
+#: single.php:126 single.php:170
+msgid "% comments"
+msgstr ""
+
+# @ archi
+#: single.php:162
+msgid "Older Post"
+msgstr ""
+
+# @ archi
+#: single.php:163
+msgid "Newer Post"
+msgstr ""
+
+# @ archi
+#: single.php:182
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+# @ archi
+#: tag.php:12
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:5
+msgid "OT Heading"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:15 vc_shortcode.php:266 vc_shortcode.php:533
+#: vc_shortcode.php:606
+msgid "Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:18
+msgid "Add Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:22
+msgid "Element Tag"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:25
+msgid "Select Tag"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:26
+msgid "h1"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:27
+msgid "h2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:28
+msgid "h3"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:29
+msgid "h4"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:30
+msgid "h5"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:31
+msgid "h6"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:32
+msgid "p"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:33
+msgid "div"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:36
+msgid "Section Element Tag"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:40
+msgid "Text Align"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:43
+msgid "Select Align"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:44
+msgid "left"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:45
+msgid "right"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:46
+msgid "center"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:47
+msgid "justify"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:49
+msgid "Section Overlay"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:55 vc_shortcode.php:58
+msgid "Font Size"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:64 vc_shortcode.php:67
+msgid "Color"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:73
+msgid "Class Extra"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:76
+msgid "Class extra for style"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:85
+msgid "OT Line Solid"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:98
+msgid "EX: circle.Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:106
+msgid "OT Button"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:116
+msgid "Button Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:119
+msgid "Add Your Button Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:125 vc_shortcode.php:555 vc_shortcode.php:610
+msgid "Button Link"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:128 vc_shortcode.php:204 vc_shortcode.php:275
+#: vc_shortcode.php:333 vc_shortcode.php:2678
+msgid "Add Link Url, Empty do not show."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:136
+msgid "OT Home HTML5 Video"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:157 vc_shortcode.php:255 vc_shortcode.php:322
+#: vc_shortcode.php:522 vc_shortcode.php:595
+msgid "Add your text slider (multiple field)"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:168 vc_shortcode.php:456
+msgid "Background Video"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:177 vc_shortcode.php:465
+msgid "Video Link mp4"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:186 vc_shortcode.php:474
+msgid "Video Link webm"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:195
+msgid "Text SubTitle"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:213
+msgid "Text Button"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:222 vc_shortcode.php:489 vc_shortcode.php:621
+msgid "Overlay"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:223 vc_shortcode.php:490 vc_shortcode.php:622
+msgid "Dotted"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:226 vc_shortcode.php:493 vc_shortcode.php:625
+msgid "Select video background overlay."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:234
+msgid "OT Home Parallax"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:284
+msgid "Add You Button Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:292
+msgid "OT Home Parallax 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:341
+msgid "OT Home Text Static"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:354 vc_shortcode.php:652 vc_shortcode.php:655
+#: vc_shortcode.php:711 vc_shortcode.php:714 vc_shortcode.php:766
+#: vc_shortcode.php:769 vc_shortcode.php:928 vc_shortcode.php:931
+#: vc_shortcode.php:1062 vc_shortcode.php:1065
+msgid "Title"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:363
+msgid "SubTitle text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:371
+msgid "OT Home Image Landing"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:393 vc_shortcode.php:438
+msgid "Add your title"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:402 vc_shortcode.php:447
+msgid "Add your subtitle"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:406 vc_shortcode.php:478 vc_shortcode.php:2675
+msgid "Link Button"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:408 vc_shortcode.php:480
+msgid "Add your link to button."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:416
+msgid "OT Home Video Landing"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:501
+msgid "OT Home Moving Background"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:539
+msgid "Background Image Moving"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:542
+msgid "Upload Background Image Moving, Recomended Size: 3830 x 800 (max-width: 5000 and max-height: 800)"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:551
+msgid "Add your time delay, eg: 10 or 50"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:557 vc_shortcode.php:612
+msgid "Add link to button."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:565
+msgid "OT Home Youtube Video"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:575
+msgid "Enter Your ID YouTube Video"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:578
+msgid "Your ID YouTube Video, Example: <code>5ynGpsRtNHw</code> https://www.youtube.com/embed/<code>5ynGpsRtNHw</code> or https://www.youtube.com/watch?v=<code>5ynGpsRtNHw</code>, Please only Your ID Video and not all link video."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:633
+msgid "OT Info Apps"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:643 vc_shortcode.php:702
+msgid "Add icon class"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:646 vc_shortcode.php:705
+msgid "Ex: icon-<code>wallet</code>, <a href='http://vegatheme.com/html/archi-icons-etlinefont/' target='_blank'>view more icon class</a>"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:661 vc_shortcode.php:720 vc_shortcode.php:775
+#: vc_shortcode.php:937 vc_shortcode.php:1071 vc_shortcode.php:2114
+#: vc_shortcode.php:2213
+msgid "Description"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:664 vc_shortcode.php:723 vc_shortcode.php:778
+#: vc_shortcode.php:940
+msgid "Content right."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:668 vc_shortcode.php:736 vc_shortcode.php:907
+#: vc_shortcode.php:1011
+msgid "CSS box"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:671 vc_shortcode.php:739 vc_shortcode.php:910
+#: vc_shortcode.php:1014
+msgid "Design Options"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:680
+msgid "Icon right"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:681
+msgid "Icon left"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:682
+msgid "Icon center"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:684
+msgid "Select Icon Position"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:692
+msgid "OT Info Apps 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:729
+msgid "Delay time for icon"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:732
+msgid "Use for animation effect."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:747
+msgid "OT Quick Office 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:760 vc_shortcode.php:825 vc_shortcode.php:1056
+msgid "Photo"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:784 vc_shortcode.php:1080
+msgid "Columns Image"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:787 vc_shortcode.php:1083 vc_shortcode.php:1179
+#: vc_shortcode.php:1256 vc_shortcode.php:1323 vc_shortcode.php:1390
+#: vc_shortcode.php:1467 vc_shortcode.php:1544 vc_shortcode.php:1620
+#: vc_shortcode.php:1696 vc_shortcode.php:1772 vc_shortcode.php:1940
+msgid "Columns 6"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:788 vc_shortcode.php:1084 vc_shortcode.php:1180
+#: vc_shortcode.php:1391 vc_shortcode.php:1468 vc_shortcode.php:1941
+msgid "Columns 5"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:789 vc_shortcode.php:1085 vc_shortcode.php:1181
+#: vc_shortcode.php:1257 vc_shortcode.php:1324 vc_shortcode.php:1392
+#: vc_shortcode.php:1469 vc_shortcode.php:1545 vc_shortcode.php:1621
+#: vc_shortcode.php:1697 vc_shortcode.php:1773 vc_shortcode.php:1942
+msgid "Columns 4"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:790 vc_shortcode.php:1086
+msgid "Columns 7"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:792 vc_shortcode.php:1088 vc_shortcode.php:1185
+#: vc_shortcode.php:1261 vc_shortcode.php:1328 vc_shortcode.php:1396
+#: vc_shortcode.php:1473 vc_shortcode.php:1549 vc_shortcode.php:1625
+#: vc_shortcode.php:1701 vc_shortcode.php:1777 vc_shortcode.php:1946
+#: vc_shortcode.php:2258 vc_shortcode.php:2306 vc_shortcode.php:2376
+#: vc_shortcode.php:2433
+msgid "Select number columns for show."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:812
+msgid "OT Video Tour"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:831
+msgid "Video Url"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:834
+msgid "Add youtube video link url, Ex: https://www.youtube.com/watch?v=efVWyPNd3xw"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:842
+msgid "OT Text Typing"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:852
+msgid "Text static"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:855
+msgid "Add text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:872
+msgid "Add Your Typing Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:882
+msgid "OT Download Button"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:890 vc_shortcode.php:969
+msgid "Icon"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:897 vc_shortcode.php:976
+msgid "Select icon from library."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:901 vc_shortcode.php:996
+msgid "Link Banner Box"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:903 vc_shortcode.php:998
+msgid "Add link to banner."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:918
+msgid "OT Why Choose Us"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:949
+msgid "Use number type"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:950
+msgid "Use font icon"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:952
+msgid "Select type icon"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:958 vc_shortcode.php:2532 vc_shortcode.php:2595
+#: vc_shortcode.php:2604
+msgid "Number"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:961
+msgid "Add number"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:989
+msgid "Icon box cicle"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:990
+msgid "Icon box square"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:992
+msgid "Select icon box style"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1004
+msgid "Delay Animate"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1007
+msgid "Add number delay animate, Ex: .5 or 1"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1022
+msgid "OT Video Post"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1035
+msgid "Ex: http://player.vimeo.com/video/88883554 or http://www.youtube.com/embed/eP2VWNtU5rw"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1043
+msgid "OT Quick Office"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1074
+msgid "Content"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1108
+msgid "OT Our Facts"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1121
+msgid "Use icon class name, Ex: mobile, Find <a target='_blank' href='http://vegatheme.com/html/archi-icons-etlinefont/'>Here</a>"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1127
+msgid "Title Fact"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1130
+msgid "Title display in Our Facts box."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1136
+msgid "Number Fact"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1139
+msgid "Number display in Our Facts box."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1148
+msgid "OT Portfolio Gallery"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1158 vc_shortcode.php:1235 vc_shortcode.php:1446
+#: vc_shortcode.php:1523 vc_shortcode.php:1599 vc_shortcode.php:1675
+#: vc_shortcode.php:1751
+msgid "Text Show All Portfolio"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1161 vc_shortcode.php:1238 vc_shortcode.php:1449
+#: vc_shortcode.php:1526 vc_shortcode.php:1602 vc_shortcode.php:1678
+#: vc_shortcode.php:1754
+msgid "Text Filter Show All Portfolio."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1167 vc_shortcode.php:1244 vc_shortcode.php:1455
+#: vc_shortcode.php:1532 vc_shortcode.php:1608 vc_shortcode.php:1684
+#: vc_shortcode.php:1760
+msgid "Number portfolio per page"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1170 vc_shortcode.php:1247
+msgid "Enter Number Portfolio."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1176 vc_shortcode.php:1253 vc_shortcode.php:1320
+#: vc_shortcode.php:1387 vc_shortcode.php:1464 vc_shortcode.php:1541
+#: vc_shortcode.php:1617 vc_shortcode.php:1693 vc_shortcode.php:1769
+#: vc_shortcode.php:1937 vc_shortcode.php:2251 vc_shortcode.php:2369
+#: vc_shortcode.php:2426
+msgid "Select Columns."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1182 vc_shortcode.php:1258 vc_shortcode.php:1325
+#: vc_shortcode.php:1393 vc_shortcode.php:1470 vc_shortcode.php:1546
+#: vc_shortcode.php:1622 vc_shortcode.php:1698 vc_shortcode.php:1774
+#: vc_shortcode.php:1943
+msgid "Columns 3"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1183 vc_shortcode.php:1259 vc_shortcode.php:1326
+#: vc_shortcode.php:1394 vc_shortcode.php:1471 vc_shortcode.php:1547
+#: vc_shortcode.php:1623 vc_shortcode.php:1699 vc_shortcode.php:1775
+#: vc_shortcode.php:1944
+msgid "Columns 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1191 vc_shortcode.php:1267 vc_shortcode.php:1334
+#: vc_shortcode.php:1402 vc_shortcode.php:1479 vc_shortcode.php:1555
+#: vc_shortcode.php:1631 vc_shortcode.php:1707 vc_shortcode.php:1783
+#: vc_shortcode.php:1873 vc_shortcode.php:1952
+msgid "Crop Images"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1197 vc_shortcode.php:1273 vc_shortcode.php:1340
+#: vc_shortcode.php:1408 vc_shortcode.php:1485 vc_shortcode.php:1561
+#: vc_shortcode.php:1637 vc_shortcode.php:1713 vc_shortcode.php:1789
+#: vc_shortcode.php:1879 vc_shortcode.php:1958
+msgid "Select Crop Image Size."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1203 vc_shortcode.php:1279 vc_shortcode.php:1346
+#: vc_shortcode.php:1414 vc_shortcode.php:1491 vc_shortcode.php:1567
+#: vc_shortcode.php:1643 vc_shortcode.php:1719 vc_shortcode.php:1795
+#: vc_shortcode.php:1885 vc_shortcode.php:1964
+msgid "Width"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1206 vc_shortcode.php:1282 vc_shortcode.php:1349
+#: vc_shortcode.php:1417 vc_shortcode.php:1494 vc_shortcode.php:1570
+#: vc_shortcode.php:1646 vc_shortcode.php:1722 vc_shortcode.php:1798
+#: vc_shortcode.php:1888 vc_shortcode.php:1967
+msgid "Enter Image Width, default: 700"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1213 vc_shortcode.php:1289 vc_shortcode.php:1356
+#: vc_shortcode.php:1424 vc_shortcode.php:1501 vc_shortcode.php:1577
+#: vc_shortcode.php:1653 vc_shortcode.php:1729 vc_shortcode.php:1805
+#: vc_shortcode.php:1895 vc_shortcode.php:1974
+msgid "Height"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1216 vc_shortcode.php:1292 vc_shortcode.php:1359
+#: vc_shortcode.php:1427 vc_shortcode.php:1504 vc_shortcode.php:1580
+#: vc_shortcode.php:1656 vc_shortcode.php:1732 vc_shortcode.php:1808
+#: vc_shortcode.php:1898 vc_shortcode.php:1977
+msgid "Enter Image Height, default: 466"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1225
+msgid "OT Portfolio Gallery 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1301
+msgid "OT Image Gallery 1"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1314 vc_shortcode.php:1381
+msgid "Add all your logo client and change image title name in <code>title</code> of image."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1368
+msgid "OT Image Gallery 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1436
+msgid "OT Portfolio Filter"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1458 vc_shortcode.php:1535 vc_shortcode.php:1611
+#: vc_shortcode.php:1687 vc_shortcode.php:1763
+msgid "Enter Number Portfolio, Default: 8."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1513
+msgid "OT Portfolio Filter 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1589
+msgid "OT Portfolio Filter 3"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1665
+msgid "OT Portfolio Inverted Style"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1741
+msgid "OT Portfolio Style 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1817
+msgid "OT Portfolio Carousel Style"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1829 vc_shortcode.php:1919
+msgid "Number Show Portfolio"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1832 vc_shortcode.php:1922
+msgid "Number Show Portfolio, Default: 8."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1838 vc_shortcode.php:1928 vc_shortcode.php:2520
+msgid "Categories"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1841 vc_shortcode.php:1931 vc_shortcode.php:2523
+msgid "Enter your category."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1847
+msgid "Slider auto play"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1850
+msgid "Select"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1854
+msgid "Select slider auto play."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1860
+msgid "Number Visible."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1863 vc_shortcode.php:2254 vc_shortcode.php:2302
+#: vc_shortcode.php:2372 vc_shortcode.php:2429
+msgid "4 Columns"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1864 vc_shortcode.php:2255 vc_shortcode.php:2303
+#: vc_shortcode.php:2373 vc_shortcode.php:2430
+msgid "3 Columns"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1865 vc_shortcode.php:2256 vc_shortcode.php:2304
+#: vc_shortcode.php:2374 vc_shortcode.php:2431
+msgid "2 Columns"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1867
+msgid "Select number visible for show."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:1907
+msgid "OT Portfolio Category"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2027
+msgid "OT Clients Logo"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2040
+msgid "Add all your logo client and add link url in <code>caption</code> of logo image."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2049 vc_shortcode.php:2207
+msgid "Select Visible"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2050
+msgid "4 items"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2051
+msgid "5 items"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2052
+msgid "6 items"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2054 vc_shortcode.php:2066
+msgid "Number visible"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2063
+msgid "Same window"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2064
+msgid "New window"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2074
+msgid "OT Our Team"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2087
+msgid "Avarta of member, Recomended Size: 420 x 420"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2093
+msgid "Name"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2096
+msgid "Member's Name"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2102
+msgid "Job"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2105
+msgid "Member's job."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2120
+msgid "Icon 1"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2123 vc_shortcode.php:2141 vc_shortcode.php:2159
+#: vc_shortcode.php:2177
+msgid "EX: twitter, facebook, skype...Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2132 vc_shortcode.php:2150 vc_shortcode.php:2168
+#: vc_shortcode.php:2186
+msgid "Url."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2138
+msgid "Icon 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2156
+msgid "Icon 3"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2174
+msgid "Icon 4"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2194
+msgid "OT Testimonial Silder"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2208
+msgid "1 Col"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2209
+msgid "2 Cols"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2210
+msgid "3 Cols"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2211
+msgid "4 Cols"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2222 vc_shortcode.php:2245 vc_shortcode.php:2280
+#: vc_shortcode.php:2363 vc_shortcode.php:2420 vc_shortcode.php:2477
+msgid "Add Number -1 for show all post."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2232
+msgid "OT Testimonial Grid"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2267
+msgid "OT Services Grid"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2286
+msgid "Show Image?"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2289
+msgid "Style 1: image above content"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2290
+msgid "Style 2: image below content"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2291
+msgid "Style 3: image not show"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2293
+msgid "Select show image position of Services"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2299
+msgid "Select Columns"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2312 vc_shortcode.php:2382 vc_shortcode.php:2439
+#: vc_shortcode.php:2483
+msgid "Show service button?"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2316 vc_shortcode.php:2386 vc_shortcode.php:2443
+#: vc_shortcode.php:2487
+msgid "no"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2318 vc_shortcode.php:2388 vc_shortcode.php:2445
+#: vc_shortcode.php:2489
+msgid "Option show/hide button on service post."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2324
+msgid "Button Style"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2327
+msgid "Full width"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2328
+msgid "No full width"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2330
+msgid "Select button style."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2340 vc_shortcode.php:2397 vc_shortcode.php:2454
+#: vc_shortcode.php:2498
+msgid "Add button text, default: read more."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2350
+msgid "OT Services Grid 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2407
+msgid "OT Services Grid 3"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2464
+msgid "OT Services List"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2508
+msgid "OT Process"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2582
+msgid "OT Latest Blog Silder"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2608
+msgid "Show read more button?"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2610
+msgid "If checked blog post will be set to show button read more."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2620
+msgid "OT Pricing Table"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2630
+msgid "Title Pricing"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2633
+msgid "Title display in Pricing Table."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2639
+msgid "Price Pricing"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2642
+msgid "Price display in Pricing Table."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2648
+msgid "Per Time"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2651
+msgid "Price per time in Pricing Table."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2657
+msgid "Detail Pricing"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2660
+msgid "Content Pricing Table."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2666
+msgid "Label Button"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2669
+msgid "Add Your Button Text."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2684
+msgid "Table Width (%)"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2687
+msgid "Style width Pricing Table. Ex: 4 columns - 25%, 5 columns: 20%, 3 columns: 33.33%."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2693
+msgid "Featured Pricing?"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2699
+msgid "Select Featured Pricing."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2705
+msgid "Style Table"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2708
+msgid "Style 1: Light"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2709
+msgid "Style 2: Dark"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2711
+msgid "Select Style Pricing Tables"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2719
+msgid "OT Image Carousel"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2739
+msgid "OT Google Map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2749
+msgid "Height Map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2752
+msgid "Please enter number height Map, 300, 350, 380, ..etc. Default: 420."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2758
+msgid "Latitude"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2761
+msgid "Please enter <a href='http://www.latlong.net/'>Latitude</a> google map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2767
+msgid "Longitude"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2770
+msgid "Please enter <a href='http://www.latlong.net/'>Longitude</a> google map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2777
+msgid "Zoom Map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2780
+msgid "Please enter Zoom Map, Default: 15"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2789
+msgid "Icon Map marker, 85 x 85"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2795
+msgid "Select gmap style."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2798
+msgid "Style 1: Dark"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2799
+msgid "Style 2: Light"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2800
+msgid "Customize Gmap Style"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2802
+msgid "Select your style for gmap."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2808
+msgid "JavaScript Code"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:2811
+msgid "Enter your JavaScript code, find your custom style gmap here:<a href=\"https://snazzymaps.com/explore\" target=\"_blank\">view more</a>"
+msgstr ""
+
+# @ archi
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+# @ archi
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+# @ archi
+#: woocommerce/loop/result-count.php:34
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+# @ archi
+#: woocommerce/loop/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+# @ archi
+#: woocommerce/product-searchform.php:26
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+# @ archi
+#: woocommerce/product-searchform.php:26
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
